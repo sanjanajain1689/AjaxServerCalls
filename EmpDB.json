@@ -27,7 +27,7 @@
       },
       {
         "id": 33,
-        "name": "Anil",
+        "name": "Rakesh",
         "salary": "2000.0"
       },
       {
@@ -36,9 +36,9 @@
         "id": 34
       },
       {
-        "name": "Sanjana",
+        "name": "Prajwal",
         "salary": "2302",
         "id": 35
       }
     ]
-  }
+  } 
